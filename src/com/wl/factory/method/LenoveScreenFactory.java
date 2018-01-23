@@ -4,8 +4,8 @@
  */
 package com.wl.factory.method;
 
-import com.wl.interf.Lenovo;
-import com.wl.model.LenovoScreen;
+import com.wl.factory.interf.Lenovo;
+import com.wl.factory.model.LenovoScreen;
 
 /**
  * @author wanglei

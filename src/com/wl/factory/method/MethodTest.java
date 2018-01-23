@@ -4,9 +4,9 @@
  */
 package com.wl.factory.method;
 
-import com.wl.model.LenovoComputer;
-import com.wl.model.LenovoKeyboard;
-import com.wl.model.LenovoScreen;
+import com.wl.factory.model.LenovoComputer;
+import com.wl.factory.model.LenovoKeyboard;
+import com.wl.factory.model.LenovoScreen;
 
 /**
  * @author wanglei

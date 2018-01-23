@@ -4,12 +4,12 @@
  */
 package com.wl.factory.abstracts;
 
-import com.wl.interf.Calculate;
-import com.wl.interf.Display;
-import com.wl.interf.Input;
-import com.wl.model.LenovoComputer;
-import com.wl.model.LenovoKeyboard;
-import com.wl.model.LenovoScreen;
+import com.wl.factory.interf.Calculate;
+import com.wl.factory.interf.Display;
+import com.wl.factory.interf.Input;
+import com.wl.factory.model.LenovoComputer;
+import com.wl.factory.model.LenovoKeyboard;
+import com.wl.factory.model.LenovoScreen;
 
 /**
  * @author wanglei

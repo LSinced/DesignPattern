@@ -4,9 +4,9 @@
  */
 package com.wl.factory.abstracts;
 
-import com.wl.interf.Calculate;
-import com.wl.interf.Display;
-import com.wl.interf.Input;
+import com.wl.factory.interf.Calculate;
+import com.wl.factory.interf.Display;
+import com.wl.factory.interf.Input;
 
 /**
  * @author wanglei

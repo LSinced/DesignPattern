@@ -4,7 +4,7 @@
  */
 package com.wl.factory.method;
 
-import com.wl.interf.Lenovo;
+import com.wl.factory.interf.Lenovo;
 
 /**
  * @author wanglei

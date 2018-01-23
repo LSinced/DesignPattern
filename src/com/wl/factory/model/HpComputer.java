@@ -2,12 +2,12 @@
  * add by wanglei at 2018-1-23 下午2:00:40
  * 
  */
-package com.wl.model;
+package com.wl.factory.model;
 
-import com.wl.interf.Calculate;
-import com.wl.interf.Display;
-import com.wl.interf.Hp;
-import com.wl.interf.Input;
+import com.wl.factory.interf.Calculate;
+import com.wl.factory.interf.Display;
+import com.wl.factory.interf.Hp;
+import com.wl.factory.interf.Input;
 
 /**
  * @author wanglei

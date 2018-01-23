@@ -2,10 +2,10 @@
  * add by wanglei at 2018-1-23 上午10:43:01
  * 
  */
-package com.wl.model;
+package com.wl.factory.model;
 
-import com.wl.interf.Display;
-import com.wl.interf.Lenovo;
+import com.wl.factory.interf.Display;
+import com.wl.factory.interf.Lenovo;
 
 /**
  * @author wanglei

@@ -4,12 +4,12 @@
  */
 package com.wl.factory.abstracts;
 
-import com.wl.model.HpComputer;
-import com.wl.model.HpKeyboard;
-import com.wl.model.HpScreen;
-import com.wl.model.LenovoComputer;
-import com.wl.model.LenovoKeyboard;
-import com.wl.model.LenovoScreen;
+import com.wl.factory.model.HpComputer;
+import com.wl.factory.model.HpKeyboard;
+import com.wl.factory.model.HpScreen;
+import com.wl.factory.model.LenovoComputer;
+import com.wl.factory.model.LenovoKeyboard;
+import com.wl.factory.model.LenovoScreen;
 
 /**
  * @author wanglei

@@ -2,7 +2,7 @@
  * add by wanglei at 2018-1-23 下午2:00:05
  * 
  */
-package com.wl.interf;
+package com.wl.factory.interf;
 
 /**
  * @author wanglei

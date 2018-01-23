@@ -6,12 +6,12 @@ package com.wl.factory.abstracts;
 
 import org.junit.runner.Computer;
 
-import com.wl.interf.Calculate;
-import com.wl.interf.Display;
-import com.wl.interf.Input;
-import com.wl.model.HpComputer;
-import com.wl.model.HpKeyboard;
-import com.wl.model.HpScreen;
+import com.wl.factory.interf.Calculate;
+import com.wl.factory.interf.Display;
+import com.wl.factory.interf.Input;
+import com.wl.factory.model.HpComputer;
+import com.wl.factory.model.HpKeyboard;
+import com.wl.factory.model.HpScreen;
 
 /**
  * @author wanglei

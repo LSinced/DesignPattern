@@ -2,10 +2,10 @@
  * add by wanglei at 2018-1-23 下午2:03:17
  * 
  */
-package com.wl.model;
+package com.wl.factory.model;
 
-import com.wl.interf.Hp;
-import com.wl.interf.Input;
+import com.wl.factory.interf.Hp;
+import com.wl.factory.interf.Input;
 
 /**
  * @author wanglei
