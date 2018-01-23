@@ -21,6 +21,11 @@ public class AdapterTest {
 		SimAdapter adapter=new SimAdapter(microSim);
 		mPhone.setSim(adapter);
 		mPhone.call();
+		
+		MobilePhone mPhone2=new MobilePhone();
+		SimAdapter2 adapter2=new SimAdapter2();
+		mPhone2.setSim(adapter2);
+		mPhone2.call();
 	}
 
 }
